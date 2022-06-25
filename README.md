@@ -4,7 +4,7 @@ My favorites extensions and settings.
 
 [.vscode/settings.json](https://github.com/vinhnx/vinhnx_vscode/blob/main/.vscode/settings.json)
 
-[.vscode/extensions.json](https://github.com/vinhnx/vinhnx_vscode/blob/main/.vscode/extensions.json)
+[.vscode/extensions.md](https://github.com/vinhnx/vinhnx_vscode/blob/main/.vscode/extensions.md)
 
 > Hint to self: use vinhnx GitHub account to sync VSCode settings and extensions.
 
