@@ -1,10 +1,15 @@
-// on new machine, type this in command line to install
+On new machine, type this in command line to install
+
+```bash
+~/Developer/learn-by-doing/vscodee
+15:15:32 ❯ code --list-extensions | xargs -L 1 echo code --install-extension
 code --install-extension 7ute.minimal-icon-theme
 code --install-extension abusaidm.html-snippets
 code --install-extension af4jm.vscode-icalendar
 code --install-extension af4jm.vscode-m3u
 code --install-extension akamud.vscode-javascript-snippet-pack
 code --install-extension alefragnani.rtf
+code --install-extension antfu.file-nesting
 code --install-extension antfu.theme-vitesse
 code --install-extension artlaman.chalice-icon-theme
 code --install-extension bagonaut.mongogo
@@ -90,3 +95,4 @@ code --install-extension withfig.fig
 code --install-extension xabikos.JavaScriptSnippets
 code --install-extension Yummygum.city-lights-icon-vsc
 code --install-extension Zignd.html-css-class-completion
+```
