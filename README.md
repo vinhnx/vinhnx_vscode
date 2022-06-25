@@ -2,7 +2,13 @@
 
 My favorites extensions and settings. 
 
+[.vscode/settings.json](https://github.com/vinhnx/vinhnx_vscode/blob/main/.vscode/settings.json)
+
+[.vscode/extensions.json](https://github.com/vinhnx/vinhnx_vscode/blob/main/.vscode/extensions.json)
+
 > Hint to self: use vinhnx GitHub account to sync VSCode settings and extensions.
+
+---
 
 Also check out antfu's vscode repos for goodies:
 + https://github.com/antfu/vscode-theme-vitesse
@@ -10,8 +16,5 @@ Also check out antfu's vscode repos for goodies:
 + https://github.com/antfu/vscode-file-nesting-config
 + https://github.com/antfu/vscode-icons-carbon
 + https://github.com/antfu/dotfiles
-
-+ [.vscode/settings.json](https://github.com/vinhnx/vinhnx_vscode/blob/main/.vscode/settings.json)
-+ [.vscode/extensions.json](https://github.com/vinhnx/vinhnx_vscode/blob/main/.vscode/extensions.json)
 
 🚀
