@@ -1,8 +1,10 @@
 # vinhnx_vscode
-vinhnx's favorites extensions and settings 
+vinhnx's favorites extensions and settings. Hint to self: use vinhnx GitHub account to sync VSCode settings and extensions.
 
+---
+
+### Extensions
 ```bash
-
 ~/Developer/learn-by-doing/vscodee
 14:57:14 ❯ code --list-extensions | xargs -L 1 echo code --install-extension
 code --install-extension 7ute.minimal-icon-theme
